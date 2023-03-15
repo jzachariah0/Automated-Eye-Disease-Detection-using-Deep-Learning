@@ -1,6 +1,5 @@
 # Automated-Eye-Disease-Detection-using-Deep-Learning
 
-Eye Disease Detection Program
 This program uses machine learning techniques to detect eye diseases from retinal images. The program is written in Python and uses the Keras library to build and train a deep learning model.
 
 Dataset
