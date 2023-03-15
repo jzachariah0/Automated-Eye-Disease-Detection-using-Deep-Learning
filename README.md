@@ -24,4 +24,5 @@ These dependencies can be installed using the requirements.txt file provided.
 References
 
 Dataset: Kaggle Eye Diseases Recognition Dataset: https://www.kaggle.com/monaalshehry/diabeticretinopathy-detection
+
 VGG16 model: Very Deep Convolutional Networks for Large-Scale Image Recognition: https://arxiv.org/abs/1409.1556
