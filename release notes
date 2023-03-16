@@ -1,0 +1,10 @@
+Release Notes:
+
+Version 1.0 - Eye Disease Detection Program
+
+Initial release of the Eye Disease Detection Program.
+Trained machine learning model to detect eye diseases from images.
+Supports training on custom datasets.
+Includes notebooks for data exploration, model training, and model evaluation.
+Includes scripts for training, prediction, and running a web application.
+
