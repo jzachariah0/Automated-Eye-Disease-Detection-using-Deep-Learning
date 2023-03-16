@@ -1,0 +1,17 @@
+Eye Disease Detection Program User Guide
+
+Introduction:
+
+The Eye Disease Detection Program is a machine learning-based program that can detect eye diseases such as glaucoma and cataracts from eye images. The program uses a convolutional neural network (CNN) trained on a dataset of eye images to make predictions.
+
+Installation:
+
+Clone the repository from Github.
+Install the required packages by running pip install -r requirements.txt.
+Download the eye image dataset and store it in the data folder.
+Usage:
+
+To train the model, run the model_training.ipynb notebook in the notebooks folder. The notebook will save the trained model in the models folder.
+To evaluate the model, run the model_evaluation.ipynb notebook in the notebooks folder. The notebook will output the evaluation metrics.
+To use the program to predict eye diseases, run the predict.py script in the src folder. The script takes an eye image as input and outputs the predicted disease.
+To use the program as a web app, run the app.py script in the src folder. The script starts a web server that allows users to upload an eye image and get a prediction for the disease.
